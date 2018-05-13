@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generating MySQL Table or View Structure as a Markdown Table"
-date:   2018-05-12 18:45:00 +0530
+date:   2018-05-13 18:45:00 +0530
 categories: mysql script documentation markdown
 ---
 The following script snippet prints the structure of a MySQL table (or view) as a [Markdown](https://daringfireball.net/projects/markdown/) table:
